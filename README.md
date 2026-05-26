@@ -1,3 +1,6 @@
+# 🔥 Update
+To reduce the number of managed repos, I have integrated this code into a new repo called [bellhop](https://github.com/gglaspell/bellhop).
+
 # ROS 2 Bag to RGB 3D Tileset Converter
 
 Converts a ROS 2 bag file into a georeferenced, optionally RGB-coloured
